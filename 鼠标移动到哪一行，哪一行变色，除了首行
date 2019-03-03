@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>联系方式</title>
+		<style type="text/css">
+			tbody tr:hover{
+				background-color: aqua;
+			}
+		</style>
+	</head>
+	<body>
+		<table align="center" border="1px" width="400px" height="300px">
+		<thead>
+		<tr>
+			<td>姓名</td>
+			<td>班级</td>
+			<td>联系方式</td>
+			<td>邮箱</td>
+		</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<td>牛欢</td>
+			<td>3班</td>
+			<td>13456788</td>
+			<td>1189628@qq.com</td>
+		</tr>
+		<tr>
+			<td>牛欢</td>
+			<td>3班</td>
+			<td>13456788</td>
+			<td>1189628@qq.com</td>
+		</tr>
+		<tr>
+			<td>牛欢</td>
+			<td>3班</td>
+			<td>13456788</td>
+			<td>1189628@qq.com</td>
+		</tr>
+		<tr>
+			<td>牛欢</td>
+			<td>3班</td>
+			<td>13456788</td>
+			<td>1189628@qq.com</td>
+		</tr>
+		</tbody>
+		</table>
+	</body>
+</html>
